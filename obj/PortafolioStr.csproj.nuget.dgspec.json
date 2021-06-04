@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\skell\\ProyectoPortafolio\\StrPortafolio\\PortafolioStr\\PortafolioStr.csproj": {}
+    "C:\\Users\\skell\\ProyectoPortafolio\\StrPortafolio\\PortafolioStr.csproj": {}
   },
   "projects": {
-    "C:\\Users\\skell\\ProyectoPortafolio\\StrPortafolio\\PortafolioStr\\PortafolioStr.csproj": {
+    "C:\\Users\\skell\\ProyectoPortafolio\\StrPortafolio\\PortafolioStr.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\skell\\ProyectoPortafolio\\StrPortafolio\\PortafolioStr\\PortafolioStr.csproj",
+        "projectUniqueName": "C:\\Users\\skell\\ProyectoPortafolio\\StrPortafolio\\PortafolioStr.csproj",
         "projectName": "PortafolioStr",
-        "projectPath": "C:\\Users\\skell\\ProyectoPortafolio\\StrPortafolio\\PortafolioStr\\PortafolioStr.csproj",
+        "projectPath": "C:\\Users\\skell\\ProyectoPortafolio\\StrPortafolio\\PortafolioStr.csproj",
         "packagesPath": "C:\\Users\\skell\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\skell\\ProyectoPortafolio\\StrPortafolio\\PortafolioStr\\obj\\",
+        "outputPath": "C:\\Users\\skell\\ProyectoPortafolio\\StrPortafolio\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
